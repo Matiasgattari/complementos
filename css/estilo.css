@@ -1,0 +1,22 @@
+h1 {color: red;}
+h2 {color: blue;}
+p {color: green;}
+body {background-color: rgb(227, 139, 253);}
+.imagen1 {width: 35px; height: 40px; }
+.navegacion {background-color: rgb(173, 139, 253) }
+.navegacionBarra { background-color: rgb(136, 89, 243) ; opacity: 75%; top: 0; position: sticky; z-index: 100;border-radius: 7px;}
+.separado {justify-content: space-between;}
+.redondeoBordes {border-radius: 15px ;}
+/* a .dropdown-item {height: 25px;} */
+
+ul .dropdown-menu {min-width: 6.5rem; background:rgba(156, 119, 243, 0);border: none; }
+
+/* .img {width: 70%; margin-left: 12.5%; margin-top: 4%; margin-bottom: 2%;} */
+.tamañoCarrusel {width: 50%; margin-left: 23.5%; margin-top: 4%; margin-bottom: 2%;}
+.body {max-width: 95%;}
+
+.bordesFormulario {border-radius: 40px ; box-shadow: 10px 5px 5px rgb(136, 89, 243); margin-top: 18px;}
+
+
+.botonEnviar {border-radius: 25px; box-shadow: 5px 5px 5px rgb(136, 89, 243); margin-bottom: 35px; }
+.bordeContacto {border-top: 3px; border-bottom: 3px;}
